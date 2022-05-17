@@ -1,13 +1,17 @@
+![](header.png)
+
 #### ABOUT ME
 
-I'm a full stack engineer focused on developing compelling and scalable web applications.
+I'm a learner || full stack engineer.
 
+🌱  Currently diving into Next.js and TypeScript
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/austin-chapin/)
+☕️ Always looking to connect!
 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="baseline">
+	<a href="https://github.com/austinchapin1"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/austin-chapin/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+</p>
 
 <!--
 **austinchapin1/austinchapin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
