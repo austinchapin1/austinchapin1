@@ -2,7 +2,7 @@
 
 #### ABOUT ME
 
-I'm a learner || full stack engineer.
+I'm a full stack engineer || learner.
 
 🌱  Currently diving into Next.js and TypeScript
 
