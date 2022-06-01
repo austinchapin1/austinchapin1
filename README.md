@@ -1,5 +1,5 @@
 
-#### ABOUT ME
+### ABOUT ME
 
 I'm a full stack engineer || learner.
 
@@ -19,6 +19,7 @@ I'm a full stack engineer || learner.
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
 
 
+
 🌱  Currently diving into Next.js and TypeScript
 
 ☕️ Always looking to connect!
@@ -27,6 +28,18 @@ I'm a full stack engineer || learner.
 	<a href="https://github.com/austinchapin1"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/austin-chapin/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </p>
+
+
+### Some of my projects include:
+
+#### Crypto Casino
+Fullstack gaming social app that allows users to
+* Register an account
+* Purchase and choose from three scratch off games : High Roller; Wild Wild West Bingo; Lucky Lucy
+* Users have potential to win tokens or NFTs
+* Users can socialize with other users in the chat room
+
+![](https://media.giphy.com/media/gw2ssMeGiNXpQaL3dl/giphy.gif)![](https://media.giphy.com/media/llwqjlp0B8vxpR8VRJ/giphy.gif)![](https://media.giphy.com/media/NnM6gUCuuTW3LTMeIh/giphy.gif)
 
 
 
