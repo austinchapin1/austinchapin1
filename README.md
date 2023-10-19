@@ -19,11 +19,6 @@ I'm a full stack engineer || learner.
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
 
 
-
-🌱  Currently diving into Next.js and TypeScript
-
-☕️ Always looking to connect!
-
 <p align="baseline">
 	<a href="https://github.com/austinchapin1"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/austin-chapin/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
